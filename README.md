@@ -5,7 +5,7 @@
 ## Установка
 
 В корне Битрикс-сайта у вас должна быть папка local. Для установки модуля нужно:
-1. Положить папки `modules`, `routes` и файл `api.php` в папку `local. Получатся такие пути: `/local/modules/` и `/local/routes/` `/local/api.php`
+1. Положить папки `modules`, `routes` и файл `api.php` в папку `local`. Получатся такие пути: `/local/modules/` и `/local/routes/` `/local/api.php`
 2. В корне сайта изменить файл .htaccess:
 
 ```apacheconf
